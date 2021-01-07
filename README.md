@@ -11,7 +11,6 @@
 This page is an attempt to greet everyone on Earth using our various human languages. We're interested to see how long our list can become.
 
 ## Setup/Installation Requirements
-* Web Page: [hello-world](https://micaholson.github.io/hello-world) 
 * Clone from [this repository](https://github.com/MicahOlson/hello-world) and edit as desired.
 
 ## Known Bugs
